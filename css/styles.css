@@ -79,6 +79,12 @@ ul {
   line-height: 1.87;
   letter-spacing: 0.06em;
   background-color: #2196f3;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+}
+
+.button.primary:active {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #188ce8;
 }
 
 /* header */
